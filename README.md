@@ -48,7 +48,7 @@ Dashboard dapat diakses melalui:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Path_atau_URL_Gambar)
+![Dashboard Preview](dashboards.jpeg)
 
 
 ## 👨‍💻 Author
