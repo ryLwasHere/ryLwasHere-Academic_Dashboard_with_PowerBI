@@ -48,13 +48,14 @@ Dashboard dapat diakses melalui:
 
 ## 📸 Dashboard Preview
 
-```text
 main/dashboards.jpeg
-```
+
 
 ## 👨‍💻 Author
 
 **Muhammad Farrel Fauzan**
+**Shidqi Athalla Arka Qafriyanto**
+**Rakhaa Abyan Hertamtama**
 
 Information Systems Student  
 UPN Veteran Jakarta
