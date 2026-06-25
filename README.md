@@ -48,10 +48,8 @@ Dashboard dapat diakses melalui:
 
 ## 📸 Dashboard Preview
 
-Tambahkan screenshot dashboard di sini.
-
 ```text
-assets/dashboard-preview.png
+main/dashboards.jpeg
 ```
 
 ## 👨‍💻 Author
