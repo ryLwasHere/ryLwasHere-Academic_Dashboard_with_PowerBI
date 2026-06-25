@@ -53,12 +53,11 @@ Dashboard dapat diakses melalui:
 
 ## 👨‍💻 Author
 
-**Muhammad Farrel Fauzan**
-**Shidqi Athalla Arka Qafriyanto**
-**Rakhaa Abyan Hertamtama**
+- Muhammad Farrel Fauzan
+- Shidqi Athalla Arka Qafriyanto
+- Rakhaa Abyan Hertamtama
 
 Information Systems Student  
 UPN Veteran Jakarta
 
-LinkedIn: (tambahkan link)
 GitHub: https://github.com/ryLwasHere
